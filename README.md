@@ -8,4 +8,4 @@ The [dataset](https://github.com/jp-drone/Computer-Vision-on-Drone/tree/master/d
 This training set consists of total of 1000-1200 images of 5 identifiers (around 200 pictures for each identifier). <br>
 ## Training Model
 Currently, the best results are achieved by training the model [face_recognition](https://github.com/jp-drone/Computer-Vision-on-Drone/tree/master/face-recognition-opencv).<br>
-This model refers to previous accomplised model. More details can be found on [pyimagesearch](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/) and [GitHub](https://github.com/ageitgey/face_recognition)
+This model refers to previous accomplished model. More details can be found on [pyimagesearch](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/) and [GitHub](https://github.com/ageitgey/face_recognition)
